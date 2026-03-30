@@ -84,7 +84,7 @@ Researched **Phishing** as the chosen cybercrime type. Wrote a 200–250 word ca
 | GitHub Profile | [github.com/shrinath25bac10009-beep](https://github.com/shrinath25bac10009-beep) |
 | LinkedIn Profile | (https://www.linkedin.com/in/shrinath-krishnan-0954833ba/) |
 | Kaggle Profile | (https://www.kaggle.com/shrinathkrishnan) |
-| Digital Literacy Quiz (Google Form) | (https://www.kaggle.com/shrinathkrishnan) |
+| Digital Literacy Quiz (Google Form) | (https://docs.google.com/forms/d/14gZyAuPSwoPhwbbeXRRnXPGNVpqSRe24KMCWhpwrMkY/edit) |
 | Cyber Crime Portal | [cybercrime.gov.in](https://cybercrime.gov.in) |
 
 ---
